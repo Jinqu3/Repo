@@ -1,5 +1,5 @@
-defmodule Solution do
-  def hello do
-    printf("Hello, World!")
-  end
-end
+defmodule Solution do                                                                                                   
+  def hello do                                                                                                          
+    IO.puts("Hello, World!")
+  end                                                                                                                   
+end                                                                                                                     
